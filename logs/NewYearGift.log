@@ -1,0 +1,26 @@
+2019-05-02 15:29:20.752 [main] INFO  by.epam.training.evgeniyprotasov.task2.parser.impl.ParagraphParser - Parsing text.
+2019-05-02 15:29:20.767 [main] INFO  by.epam.training.evgeniyprotasov.task2.parser.impl.SentenceParser - Parsing Sentence.
+2019-05-02 15:29:20.767 [main] INFO  by.epam.training.evgeniyprotasov.task2.parser.impl.SentenceParser - Sentence was parsed.
+2019-05-02 15:29:20.767 [main] INFO  by.epam.training.evgeniyprotasov.task2.parser.impl.SentenceParser - Parsing Sentence.
+2019-05-02 15:29:20.783 [main] INFO  by.epam.training.evgeniyprotasov.task2.parser.impl.SentenceParser - Sentence was parsed.
+2019-05-02 15:29:20.783 [main] INFO  by.epam.training.evgeniyprotasov.task2.parser.impl.ParagraphParser - Text was parsed.
+2019-05-02 15:29:20.783 [main] INFO  by.epam.training.evgeniyprotasov.task2.parser.impl.ParagraphParser - Parsing text.
+2019-05-02 15:29:20.783 [main] INFO  by.epam.training.evgeniyprotasov.task2.parser.impl.SentenceParser - Parsing Sentence.
+2019-05-02 15:29:20.783 [main] INFO  by.epam.training.evgeniyprotasov.task2.parser.impl.SentenceParser - Sentence was parsed.
+2019-05-02 15:29:20.783 [main] INFO  by.epam.training.evgeniyprotasov.task2.parser.impl.SentenceParser - Parsing Sentence.
+2019-05-02 15:29:20.783 [main] INFO  by.epam.training.evgeniyprotasov.task2.parser.impl.SentenceParser - Sentence was parsed.
+2019-05-02 15:29:20.783 [main] INFO  by.epam.training.evgeniyprotasov.task2.parser.impl.SentenceParser - Parsing Sentence.
+2019-05-02 15:29:20.783 [main] INFO  by.epam.training.evgeniyprotasov.task2.parser.impl.SentenceParser - Sentence was parsed.
+2019-05-02 15:29:20.783 [main] INFO  by.epam.training.evgeniyprotasov.task2.parser.impl.ParagraphParser - Text was parsed.
+2019-05-02 15:29:20.783 [main] INFO  by.epam.training.evgeniyprotasov.task2.parser.impl.ParagraphParser - Parsing text.
+2019-05-02 15:29:20.783 [main] INFO  by.epam.training.evgeniyprotasov.task2.parser.impl.SentenceParser - Parsing Sentence.
+2019-05-02 15:29:20.783 [main] INFO  by.epam.training.evgeniyprotasov.task2.parser.impl.SentenceParser - Sentence was parsed.
+2019-05-02 15:29:20.783 [main] INFO  by.epam.training.evgeniyprotasov.task2.parser.impl.SentenceParser - Parsing Sentence.
+2019-05-02 15:29:20.783 [main] INFO  by.epam.training.evgeniyprotasov.task2.parser.impl.SentenceParser - Sentence was parsed.
+2019-05-02 15:29:20.783 [main] INFO  by.epam.training.evgeniyprotasov.task2.parser.impl.SentenceParser - Parsing Sentence.
+2019-05-02 15:29:20.783 [main] INFO  by.epam.training.evgeniyprotasov.task2.parser.impl.SentenceParser - Sentence was parsed.
+2019-05-02 15:29:20.783 [main] INFO  by.epam.training.evgeniyprotasov.task2.parser.impl.ParagraphParser - Text was parsed.
+2019-05-02 15:29:20.799 [main] INFO  by.epam.training.evgeniyprotasov.task2.parser.impl.ParagraphParser - Parsing text.
+2019-05-02 15:29:20.799 [main] INFO  by.epam.training.evgeniyprotasov.task2.parser.impl.SentenceParser - Parsing Sentence.
+2019-05-02 15:29:20.799 [main] INFO  by.epam.training.evgeniyprotasov.task2.parser.impl.SentenceParser - Sentence was parsed.
+2019-05-02 15:29:20.799 [main] INFO  by.epam.training.evgeniyprotasov.task2.parser.impl.ParagraphParser - Text was parsed.
